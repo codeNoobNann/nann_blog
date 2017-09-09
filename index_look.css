@@ -1,0 +1,75 @@
+#world{
+	background-color:#DDDDDD;
+}
+#font_below{
+	position: absolute;
+	bottom: 35%;
+	margin-left: 40%;
+    font-family: "Comic Sans Ms",cursive,sans-serif;
+	font-size: 70px;
+	color: #002252;
+	letter-spacing: -4px;
+}
+#font_below_below{
+	position: absolute;
+	bottom: 30%;
+	margin-left: 40%;
+    font-family: "Comic Sans Ms",cursive,sans-serif;
+	font-size: 10px;
+	color: #002252;
+}
+#font_top{
+	color: #002252;
+}
+#header_top{
+	background-color:#002252;
+	height:3%;
+}
+#header_below{
+	position: relative;
+	font-weight: 900;
+	background-color:#DDDDDD;
+	height:23%;
+}
+#left_btn{
+	border-top-left-radius: 15px;
+}
+.bar_button{
+	font-family: "Comic Sans Ms",cursive,sans-serif;
+	float: left;
+	background-color: #555555;
+	border-style: solid;
+	border-color: #555555;
+	color: #FAFCFF;
+	height: 100%;
+	width: 10%;
+	font-size: 100%;
+	margin: 0;
+	padding: 5px;
+}
+#bottom_bar{
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	position: relative;
+	margin-top:1%;
+	margin-left:25%;
+	margin-right:25%;
+	height:4.5%;
+	width:50%;
+	background-color:#555555;
+	padding: 0;
+}
+#content{
+	border-bottom-left-radius:15px;
+	border-bottom-right-radius:15px;
+	margin-left:25%;
+	margin-right:25%;
+	height:80%;
+	width:50%;
+	background-color:#FAFCFF;
+}
+#footer{
+	margin-top:5%; 
+	background-color:#002252;
+	height:20%;
+}
